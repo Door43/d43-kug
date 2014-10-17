@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kug:home|Door43 (kug)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kug|d43-kug repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kug/archive/master.zip|d43-kug.zip]]
+
+**Recent Changes**
+{{changes>ns = kug}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kug|Ethnologue data]]
+
